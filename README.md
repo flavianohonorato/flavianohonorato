@@ -16,8 +16,8 @@ My name is Flaviano Honorato, i'm a backend and frontend software developer.
 ## &#x1f4c8; My Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=flavianohonorato&show_icons=true&theme=nord">
 
-## I'm listering now:
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12162128052&width=500)
+<!-- ## I'm listering now: -->
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12162128052&width=500) -->
 
 <!--
 **flavianohonorato/flavianohonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
