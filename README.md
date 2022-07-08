@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Flaviano Honorato, i'm a backend and frontend software developer.
+My name is Flaviano Honorato, i'm a fullstack software developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=mac&logoColor=white&color=2057f7)
