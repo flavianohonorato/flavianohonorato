@@ -4,7 +4,6 @@ My name is Flaviano Honorato, i'm a fullstack software developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=mac&logoColor=white&color=2057f7)
-![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Language-php-informational?style=flat&logo=php&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Framework-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=2057f7)
