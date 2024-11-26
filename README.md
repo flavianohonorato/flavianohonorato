@@ -2,6 +2,13 @@
 
 My name is Flaviano Honorato, i'm a fullstack software developer.
 
+## &#x1f4c8; My Stats:
+<div align="center"> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=flavianohonorato&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="flavianohonorato's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavianohonorato&layout=compact&hide_border=true&theme=dark" />
+</div>
+
+
 ## My Skils
 <div style="display: inline_block">  
   <div style="border: 1px solid #0d1117; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
@@ -37,10 +44,4 @@ My name is Flaviano Honorato, i'm a fullstack software developer.
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   </div>
-</div>
-
-## &#x1f4c8; My Stats:
-<div align="center"> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=flavianohonorato&show_icons=true&count_private=true&hide_border=true&title_color=483D8B&icon_color=483D8B&text_color=ffffff&bg_color=0d1117" alt="flavianohonorato's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavianohonorato&layout=compact&hide_border=true&title_color=483D8B&text_color=ffffff&bg_color=0d1117" />
 </div>
